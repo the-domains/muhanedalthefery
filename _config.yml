@@ -1,0 +1,28 @@
+name: MuhanedAlthefery
+favicon: null
+layout_spectrum: 0.8515708986669779
+typography_spectrum: 0.6992563959211111
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.619306375272572
+  lightness: 0.5398420342244208
+  saturation: 0.6817520884796977
+  rhythmicContrast: 0.7214326600078493
+purpose: []
